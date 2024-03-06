@@ -1,5 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
+import HeaderBanner from "./components/HeaderBanner";
 import Navbar from "./components/Navbar";
 import AboutUs from "./pages/AboutUs";
 import Contact from "./pages/Contact";
@@ -13,6 +14,7 @@ import Sustainability from "./pages/Sustainability";
 function App() {
   return (
     <div className={"mx-auto max-w-6xl"}>
+      <HeaderBanner />
       <Navbar />
       <Routes>
         <Route path={"/"} Component={HomePage} />

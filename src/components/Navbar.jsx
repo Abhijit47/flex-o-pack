@@ -1,67 +1,41 @@
-import {
-  FaFacebookF,
-  FaGooglePlusG,
-  FaMapMarkedAlt,
-  FaRocketchat,
-  FaTwitter,
-} from "react-icons/fa";
-import { FaPhoneVolume, FaYoutube } from "react-icons/fa6";
-import { NavLink } from "react-router-dom";
-import { navlinks } from "../../constants";
+import { Disclosure } from "@headlessui/react";
+
+import NavLogo from "./NavLogo";
+import NavbarContactInfo from "./NavbarContactInfo";
+import NavbarDisclosure from "./NavbarDisclosure";
+import NavbarLinks from "./NavbarLinks";
+import NavbarToggler from "./NavbarToggler";
 
 export default function Navbar() {
   return (
-    <header>
-      <div className={"flex justify-between bg-blue-900 p-2"}>
-        <h2 className={"text-base font-medium text-white"}>
-          Welcome To Flexo Pack Machine Pvt Ltd
-        </h2>
-        <div className={"flex items-center gap-x-2"}>
-          <p className={"text-base font-medium text-white"}>
-            Get Social With Us!
-          </p>
-          <div className={"flex items-center gap-x-2"}>
-            <FaFacebookF />
-            <FaTwitter />
-            <FaGooglePlusG />
-            <FaYoutube />
+    <Disclosure as="header" className="bg-white shadow">
+      {({ open }) => (
+        <>
+          <div className="px-2 sm:px-4 lg:divide-y lg:divide-gray-200">
+            <div className="relative flex h-16 justify-between">
+              <div className="relative z-10 flex px-2 lg:px-0">
+                <div className="flex flex-shrink-0 items-center">
+                  <NavLogo />
+                </div>
+              </div>
+
+              <NavbarToggler open={open} />
+            </div>
+            <div className="hidden lg:flex">
+              <NavbarContactInfo />
+            </div>
+            <nav
+              className="hidden lg:flex lg:space-x-8 lg:py-2"
+              aria-label="Global"
+            >
+              <NavbarLinks />
+            </nav>
           </div>
-        </div>
-      </div>
-      <img
-        src="/logo.jpg"
-        alt="navlogo"
-        decoding={"async"}
-        fetchPriority={"high"}
-      />
 
-      <div>
-        <div>
-          <FaMapMarkedAlt />
-        </div>
-        <div>
-          <FaPhoneVolume />
-        </div>
-        <div>
-          <FaRocketchat />
-        </div>
-      </div>
-
-      <nav>
-        <ul className={"flex items-center justify-evenly bg-blue-500 p-4"}>
-          {navlinks.map((link) => (
-            <li key={link.id}>
-              <NavLink
-                to={link.href}
-                rel="noopener noreferrer"
-                className={"capitalize"}
-              >
-                {link.name}
-              </NavLink>
-            </li>
-          ))}
-        </ul>
-      </nav>
-    </header>
+          {/* Navbar Disclosure */}
+          <NavbarDisclosure />
+        </>
+      )}
+    </Disclosure>
   );
 }

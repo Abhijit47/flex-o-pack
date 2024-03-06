@@ -16,7 +16,7 @@ export const navlinks = [
   },
   {
     id: "4",
-    name: "Quality-Assurance",
+    name: "Quality Assurance",
     href: "/quality-assurance",
   },
   {
