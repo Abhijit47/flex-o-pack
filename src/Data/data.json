@@ -27,7 +27,7 @@
     {
         "name":"PLC Pneumatic Collar Type Packing",
         "modelNo":"FP-501-B",
-        "images":["/images/slidersImg/HighSpeedServo.jpg","/images/slidersImg/HighSpeedServo2.jpg"],
+        "images":["/images/slidersImg/PLCPneumaticCollar.jpg","/images/slidersImg/PLCPneumaticCollar1.jpg"],
         "productDetails":{
             "price":"550000.00 - 600000.00",
             "features":"",
@@ -123,28 +123,374 @@
     },
 
     {
-        "name":"",
-        "modelNo":"",
-        "images":["/images/",""],
+        "name":"14 Head Weigher with Servo Bagger",
+        "modelNo":"FP-350 VC",
+        "images":["/images/slidersImg/14HeadWeigher.jpg","/images/slidersImg/14HeadWeigher1.jpg"],
         "productDetails":{
-            "price":"",
-            "features":"",
-            "supplyAbility":""
+            "price":"2200000.00 - 2300000.00",
+            "features":"Heavy Duty Machine",
+            "supplyAbility":"50 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","1800000.00 - 2000000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"14 Head Weigher with Servo Bagger is suited to be used in the consumer products. This is suited for a wide variability of packaging applications. This is used for the packaging of salt, sugar, spices, tea, snack foods, detergent, candies, wafers, milk, sauce, etc. It is made for the heat-sealable plastic. 14 Head Weigher with Servo Bagger Granules is used for packing and bagging the potato chips, fryums, kurkure, dry fruit, namkeen, etc. This is accessible with ultimate flexibility and can be functioned in dusty as well as wet environment."
+        },
+
+        "specifications":{
+            "products":["Filling system :","Filling Accuracy :","Type of Seal :","Filling Range :","Packing material :","Pouch Dimensions :","Power Consumption :","Compressed Air Required :","Production Output :","Weight :","Machine Size (Bagger Size) :"],
+            "description":["14 Head and 20 Head","+1-1.5% (Depend on nature of product)","Center Seal and Back Seal","25gm upto 1000 gm (depend on nature of product)","Heat Sealable Laminated Films","Width 60-200mm, Length 50-300mm","5.5 KW, Single Phase","6CFM@6 Bar (2 H.P. Compressor)","90-110 pouches per minute (Depend on nature & quantity of product)","950 Kg (apprx.)","L-1880mm, W - 1270mm, H -1500mm (Apprx.)"]
+        }
+        
+
+    },
+
+    {
+        "name":"14 Head Weigher with Servo Bagger",
+        "modelNo":"FP-504",
+        "images":["/images/slidersImg/FP-504.jpg","/images/slidersImg/FP-5041.jpg"],
+        "productDetails":{
+            "price":"1800000.00 - 2000000.00",
+            "features":"Heavy Duty Machine",
+            "supplyAbility":"50 Unit Per Month"
         },
         
         "productTables":{
             "priceAndQuantiy":["","","",""],
-            "productSpecifications":"",
-            "tradeInformation":"",
+            "productSpecifications":[""],
+            "tradeInformation":[""],
             "productDescription":""
         },
 
         "specifications":{
-            "products":["","","",""],
-            "description":["","","","",""]
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing Material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bager size)"],
+            "description":["Adjustable Telescopic Disc, Volumetric Cup Filler","1-1.5% (Depend on nature of product)","Centre Seal & Back Seal","25 gm upto 1000 gms. (Depent on nature of product)","Heat Sealable Laminated Films","Width: 60-200 mm, Length: 50-300 mm","5.5 Kw, 3 Kw","5 CFM@66 Bar (2 H.P. Compressor)","80-95 pouches per minute (depent on nature & quantity of product)","950 Kg (Apprx)","L:1880 mm, W:1270mm, H:2700 mm:(Apprx)"]
         }
 
-    }
-    
+    },
 
+
+    {
+        "name":"4 Head Linear Weigher with Pneumatic Bagger",
+        "modelNo":"FP-502",
+        "images":["/images/slidersImg/4HeadLinear.png","/images/slidersImg/4HeadLinear1.png"],
+        "productDetails":{
+            "price":"650000.00 - 850000.00",
+            "features":"",
+            "supplyAbility":"50 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","650000.00 - 850000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"4 Head Linear Weigher with Pneumatic Bagger is used for the packaging of Namkeen, Comflakes, Tea, Coffee, Pulses, Ayurvedic Medicines, Almond, Tablets, Rye, Cashew, Rice, Cloves, Detergent Powder, Dhania, Peanuts etc. This is accessible with advanced utility and enables an effective as well as safe packaging. 4 Head Linear Weigher with Pneumatic Bagger is made to deal with granular, free flowing and powdered materials. They can deal with the products of varied density."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Bucket Materia","Machine Size (Bagger Size)"],
+            "description":["4 Heads","+1-1.5% (Depend on nature of product)","Center Seal and Back Seal","25gm upto 1000 gm (depend on nature of product)","Heat Sealable Laminated Films","Width 60-200mm, Length 50-300mm","5.0 KW, 3.0 K.W","5CFM@66 Bar (2 H.P. Compressor)","25-35 pouches per minute (Depend on nature & quantity of product)","700 Kg (apprx.)","1.2mm Plain S.S. 304","L-1160 mm, W - 950 mm, H -1478 mm (Apprx.)"]
+        }
+
+    },
+
+    
+    {
+        "name":"Pneumatic Collar Type Machine PLC Based",
+        "modelNo":"",
+        "images":["/images/slidersImg/PneumaticCollar.png","/images/slidersImg/PneumaticCollar1.png"],
+        "productDetails":{
+            "price":"380000.00 - 450000.00",
+            "features":"",
+            "supplyAbility":"10 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","380000.00 - 450000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","10 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"Pneumatic Collar Type Machine PLC Based is applicable for dealing with pulses, beans, spices, powders granules, detergents, pharmaceutical powders, soup mixes, coffee, sugar, agricultural powders, tea, and rice. This is a PLC (Programmable Logic Controller) controlled machine accessible with MMI (Man Machine Interface). It has a digital display and user-friendly features. The machine has both electro-mechanical as well as electro-pneumatic and drives. This is useful for the granules as well as apportion of powders. The said machine can be synchronized well. It has an adjustable telescopic disc, central seal, back seal and volumetric cup filler for an efficient operation."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bagger Size)"],
+            "description":["Adjustable Telescopic Disc, Volumetric Cup Filler","1-1.5% (Depend on nature of product)","Center Seal and Back Seal","5gm upto 2000 gm (Depend on nature of product)","Heat Sealable Laminated Films","100-260 mm","3.0 K.W","11CFM@6 Bar (5 H.P. Compressor)","20-70 pouches per minute (Depend on nature & quantity of product)","550 Kg (apprx.)","L: 1830 mm, W: 1270 mm, H: 2600mm (Approx)"]
+        }
+
+    },
+
+    
+    {
+        "name":"High Speed Mini Cup Filler Machine",
+        "modelNo":"FP-1001",
+        "images":["/images/slidersImg/HighSpeedMini.jpg"],
+        "productDetails":{
+            "price":"375000.00 - 425000.00",
+            "features":"",
+            "supplyAbility":"10 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","250000.00 - 300000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","10 Piece Per Month","Delivery Time","2 Week"],
+            "productDescription":"High Speed Mini Cup Filler Machine is an easy to operate machine. The machine makes use of microcomputer so as to control the mini pump. It works according to the filling time and rotation rate. The machine works with high accuracy and is demanded in the sectors of medical, perfume filling, food, beverages, and cosmetics etc. High Speed Mini Cup Filler Machine it totally suitable for dealing with free flowing low viscous liquids. It can be used with an automatic as well as manual way. Performance of the said machine is stable. This is provided with a LCD display as well as simple to operate control panel."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bagger Size)"],
+            "description":["Adjustable Telescopic Disc, Volumetric Cup Filler","± 1-1.5% (Depend on nature of product)","Center Seal and Back Seal and Three side seal","2gm upto 100 gm (Depend on nature of product)","Heat Sealable Laminated Films","Width- 50-130mm, length- 50-150mm","2.5 K.W","6CFM@66 Bar (2 H.P. Compressor)","20-50 pouches per minute (Depend on nature & quantity of product)","300 Kg (apprx.)","L:900 mm, W:600mm, H:2100 mm:(Approx)"]
+        }
+
+    },
+    
+    
+    {
+        "name":"High Speed Mini Cup Filler Machine",
+        "modelNo":"FP-1001",
+        "images":["/images/slidersImg/HighSpeedMini.jpg"],
+        "productDetails":{
+            "price":"375000.00 - 425000.00",
+            "features":"",
+            "supplyAbility":"10 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","250000.00 - 300000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","10 Piece Per Month","Delivery Time","2 Week"],
+            "productDescription":"High Speed Mini Cup Filler Machine is an easy to operate machine. The machine makes use of microcomputer so as to control the mini pump. It works according to the filling time and rotation rate. The machine works with high accuracy and is demanded in the sectors of medical, perfume filling, food, beverages, and cosmetics etc. High Speed Mini Cup Filler Machine it totally suitable for dealing with free flowing low viscous liquids. It can be used with an automatic as well as manual way. Performance of the said machine is stable. This is provided with a LCD display as well as simple to operate control panel."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bagger Size)"],
+            "description":["Adjustable Telescopic Disc, Volumetric Cup Filler","± 1-1.5% (Depend on nature of product)","Center Seal and Back Seal and Three side seal","2gm upto 100 gm (Depend on nature of product)","Heat Sealable Laminated Films","Width- 50-130mm, length- 50-150mm","2.5 K.W","6CFM@66 Bar (2 H.P. Compressor)","20-50 pouches per minute (Depend on nature & quantity of product)","300 Kg (apprx.)","L:900 mm, W:600mm, H:2100 mm:(Approx)"]
+        }
+
+    },
+
+    {
+        "name":"10 Head Weigher With Pneumatic",
+        "modelNo":"FP-503",
+        "images":["/images/slidersImg/10HeadWeigher.png","/images/slidersImg/10HeadWeigher1.png"],
+        "productDetails":{
+            "price":"1300000.00 - 1600000.00",
+            "features":"Heavy Duty Machine",
+            "supplyAbility":"50 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","1300000.00 - 1600000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"-------"
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing Material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Material of Chasis","Thickness of Bucket","Machine Size (Bager size)"],
+            "description":["10 Heads","1-1.5% (Depend on nature of product)","Centre Seal & Back Seal","2.5 gm upto 1000 gms. (Depent on nature of product)","Heat Sealable Laminated Films","Width: 60-200 mm, Length: 50-300 mm","5.0 Kw single phase","13 CFM@66 Bar (5 H.P. Compressor)","60-70 pouches per minute (depent on nature & quantity of product)","900 Kg (Apprx)","304 Stainless Steel","1.2mm Plain S.S. 304","L-2432mm, W -3952mm, H -4560 mm (Apprx.)"]
+        }
+
+    },
+
+    
+    {
+        "name":"14 Head Weigher with Servo Bagger",
+        "modelNo":"FP-350 VC",
+        "images":["/images/slidersImg/14HeadWeigher.jpg","/images/slidersImg/14HeadWeigher1.jpg"],
+        "productDetails":{
+            "price":"2200000.00 - 2300000.00",
+            "features":"Heavy Duty Machine",
+            "supplyAbility":"50 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","1800000.00 - 2000000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"14 Head Weigher with Servo Bagger is suited to be used in the consumer products. This is suited for a wide variability of packaging applications. This is used for the packaging of salt, sugar, spices, tea, snack foods, detergent, candies, wafers, milk, sauce, etc. It is made for the heat-sealable plastic. 14 Head Weigher with Servo Bagger Granules is used for packing and bagging the potato chips, fryums, kurkure, dry fruit, namkeen, etc. This is accessible with ultimate flexibility and can be functioned in dusty as well as wet environment."
+        },
+
+        "specifications":{
+            "products":["Filling system :","Filling Accuracy :","Type of Seal :","Filling Range :","Packing material :","Pouch Dimensions :","Power Consumption :","Compressed Air Required :","Production Output :","Weight :","Machine Size (Bagger Size) :"],
+            "description":["14 Head and 20 Head","+1-1.5% (Depend on nature of product)","Center Seal and Back Seal","25gm upto 1000 gm (depend on nature of product)","Heat Sealable Laminated Films","Width 60-200mm, Length 50-300mm","5.5 KW, Single Phase","6CFM@6 Bar (2 H.P. Compressor)","90-110 pouches per minute (Depend on nature & quantity of product)","950 Kg (apprx.)","L-1880mm, W - 1270mm, H -1500mm (Apprx.)"]
+        }
+        
+
+    },
+
+    {
+        "name":"14 Head Weigher with Servo Bagger",
+        "modelNo":"FP-504",
+        "images":["/images/slidersImg/FP-504.jpg","/images/slidersImg/FP-5041.jpg"],
+        "productDetails":{
+            "price":"1800000.00 - 2000000.00",
+            "features":"Heavy Duty Machine",
+            "supplyAbility":"50 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["","","",""],
+            "productSpecifications":[""],
+            "tradeInformation":[""],
+            "productDescription":""
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing Material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bager size)"],
+            "description":["Adjustable Telescopic Disc, Volumetric Cup Filler","1-1.5% (Depend on nature of product)","Centre Seal & Back Seal","25 gm upto 1000 gms. (Depent on nature of product)","Heat Sealable Laminated Films","Width: 60-200 mm, Length: 50-300 mm","5.5 Kw, 3 Kw","5 CFM@66 Bar (2 H.P. Compressor)","80-95 pouches per minute (depent on nature & quantity of product)","950 Kg (Apprx)","L:1880 mm, W:1270mm, H:2700 mm:(Apprx)"]
+        }
+
+    },
+
+    {
+        "name":"4 Head Linear Weigher with Pneumatic Bagger",
+        "modelNo":"FP-502",
+        "images":["/images/slidersImg/4HeadLinear.png","/images/slidersImg/4HeadLinear1.png"],
+        "productDetails":{
+            "price":"600000.00 - 750000.00",
+            "features":"",
+            "supplyAbility":"10 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","600000.00 - 750000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"Our 4 Head Linear Weigher is phenomenal in measuring precision and measuring range. It gauges and apportions items with awesome precision and speed. Likewise, it is fit for measuring an extensive variety of dry items, from granular powders to little bits of unpredictable shapes and sizes. Such machines are utilized as a part of sustenance, pharmaceutical, synthetics, pet nourishment, grains, and general items. Clients advantage from the expanded creation limit, constancy and convenience. Additionally, there is decreased operational and material expenses. We stay aware of minimal across the board plan and creative innovation. This makes a total high-accuracy programmed measuring framework. Every one of our machines are Adaptable, Accurate and Versatile. They likewise demonstrate astounding machine attributes."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling range packing Material","Type of Seal","Packing material","Pouch Dimensions","Power Consumption","Compressed Air Required","Touch Screen","Production Output","Weight","Material of Chasis","Thickness of Bucket","Machine Size (Bagger Size)"],
+            "description":["4 Heads","25gm to 5kg, Heat seal able laminated films","Centre Seal & Back Seal","Heat Sealable Laminated Films","Width: 60-200 mm, Length: 50-300 mm","5 kw","13 cfm @6bar (5. H.P. Compressor)","10.4 Colur display with Touch screen","25-35 pouches/ minute (Depend on Nature and quality of goodS)","700kg (Approx)","304 Stainless steel","1.2m plain S.S 304","1160 x 950 x 1478"]
+        }
+
+    },
+
+    {
+        "name":"High Speed Servo Cup Filler Machine",
+        "modelNo":"FP-350",
+        "images":["/images/slidersImg/Servo Cup Filler.jpg","/images/slidersImg/Servo Cup Filler 1.jpg"],
+        "productDetails":{
+            "price":"650000.00 - 700000.00",
+            "features":"Heavy Duty Machine",
+            "supplyAbility":"50 Unit Per Month"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","650000.00 - 700000.00"],
+            "productSpecifications":["Feature","Heavy Duty Machine"],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"High Speed Servo Cup Filler Machine is used for the packing of free flowing products. The machine is accessible with advanced operation and allows for the density. This is used to make the Kurkure, Peanuts, Namkeen, Dal, Rice, Coffee, Tea and others. High Speed Servo Cup Filler Machine is the machines of high output that runs into the production ampoule needs. It is faster as well as efficient. The machines allows for faster changeover and save a lot of time."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling Range","Packing Material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bager size)"],
+            "description":["Adjustable Telescopic Disc, Volumetric Cup Filler","1-1.5% (Depend on nature of product)","Centre Seal & Back Seal","25 gm upto 1000 gms. (Depent on nature of product)","Heat Sealable Laminated Films","Width: 60-200 mm, Length: 50-300 mm","5.5 Kw, 3 Kw","5 CFM@66 Bar (2 H.P. Compressor)","80-95 pouches per minute (depent on nature & quantity of product)","950 Kg (Apprx)","L:1880 mm, W:1270mm, H:2700 mm:(Apprx)"]
+        }
+        
+    },
+
+
+    {
+        "name":"PLC Pneumatic Collar Type Packing",
+        "modelNo":"FP-501-B",
+        "images":["/images/slidersImg/PLCPneumaticCollar.jpg","/images/slidersImg/PLCPneumaticCollar1.jpg"],
+        "productDetails":{
+            "price":"",
+            "features":"",
+            "supplyAbility":"10 Unit Per Week"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","550000.00 - 600000.00"],
+            "productSpecifications":["Feature","Heavy Duty Machine"],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"High Speed Servo Cup Filler Machine is used for the packing of free flowing products. The machine is accessible with advanced operation and allows for the density. This is used to make the Kurkure, Peanuts, Namkeen, Dal, Rice, Coffee, Tea and others. High Speed Servo Cup Filler Machine is the machines of high output that runs into the production ampoule needs. It is faster as well as efficient. The machines allows for faster changeover and save a lot of time."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling range","Packing Material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Bucket Materia","Machine Size (Bager size)"],
+            "description":["4 Heads","± 1-1.5% (Depend on nature of product","Centre Seal & Back Seal","25 gm upto 5000 gms. (Depent on nature of product)","Heat Sealable Laminated Films","Width: 60-200 mm, Length: 50-300 mm","5.0 Kw, 3 Kw","5 CFM@66 Bar (2 H.P. Compressor)","25-35 pouches per minute (depent on nature & quantity of product)","700kg (Approx)","1.2mm Plain S.S. 304","L-1160 mm, W - 950 mm, H -1478 mm (Apprx.)"]
+        }        
+
+    },
+
+    {
+        "name":"Collar Type Servo Packaging Machine",
+        "modelNo":"FP-250",
+        "images":["/images/slidersImg/CollarTypeServo.jpeg","/images/slidersImg/CollarTypeServo1.jpeg"],
+        "productDetails":{
+            "price":"550000.00 - 600000.00",
+            "features":"",
+            "supplyAbility":"10 Unit Per Week"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","550000.00 - 600000.00"],
+            "productSpecifications":["Feature","Heavy Duty Machine"],
+            "tradeInformation":["Supply Ability","50 Unit Per Month","Delivery Time","2 Week"],
+            "productDescription":"High Speed Servo Cup Filler Machine is used for the packing of free flowing products. The machine is accessible with advanced operation and allows for the density. This is used to make the Kurkure, Peanuts, Namkeen, Dal, Rice, Coffee, Tea and others. High Speed Servo Cup Filler Machine is the machines of high output that runs into the production ampoule needs. It is faster as well as efficient. The machines allows for faster changeover and save a lot of time."
+        },
+
+        "specifications":{
+            "products":["Filling system :","Filling Accuracy :","Type of Seal :","Filling range :","Packing Material :","Pouch Dimensions :","Power Consumption :","Compressed Air Required :","Production Output :","Weight :","Machine Size (Bager size) :"],
+            "description":["Adjustable Telescopic Disc","± 1-1.5% (Depend on nature of product","Centre Seal & Back Seal","20 gm upto 1000 gms. (Depend on nature of product)","Heat Sealable Laminated Films","Width: 60-200 mm, Length: 50-300 mm","3.0 Kw, Single Phase","6 CFM@66 Bar (2 H.P. Compressor)","20-60 pouches per minute (depent on nature & quantity of product)","550kg (Approx)","L-1824mm, W -1220mm, H -2600 mm (Apprx.)"]
+        }        
+
+    },
+
+    {
+        "name":"High Speed Aurge Filler",
+        "modelNo":"",
+        "images":["/images/slidersImg/miniauger.jpg"],
+        "productDetails":{
+            "price":"375000.00 - 425000.00",
+            "features":"",
+            "supplyAbility":"10 Piece Per Week"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","375000.00 - 425000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","10 Piece Per Week","Delivery Time","2 Week"],
+            "productDescription":"We have extraordinary self-loader Auger Filling Machines. These are fabricated to your particular. Our group attempts to guarantee that you have the usefulness you require. We offer completely practical vertical Auger filling machine, intended to be littler and reasonable. The Filler's smaller plan makes it perfect for creation line applications where space is at a premium. Our line of fillers is a definitive in administrator comfort. They are intended to be reasonable, solid and safe. The rough development guarantees reliable administration. The High Speed Mini Auger Filler gives exact determination and alteration of fill sums."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling range","Packing Material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bager size)"],
+            "description":["Screw feeder","± 1-1.5% (Depend on nature of product","Centre Seal & Back Seal and Three side seal","25 gm upto 100 gms. (Depend on nature of product)","Heat Sealable Laminated Films","Width: 50-130 mm, Length: 50-150 mm","3.5 Kw, 3 Phase","6 CFM@66 Bar (3 H.P. Compressor)","20-100 pouches per minute (Depend on nature & quantity of product)","400 Kg (Approx.) + 200kg (screw conveyor)","L:900 mm, W:600mm, H:2100 mm:(Approx)"]
+        }        
+
+    },
+
+
+    {
+        "name":"PLC Type Auger Fillera",
+        "modelNo":"",
+        "images":["/images/slidersImg/plcnew.jpg"],
+        "productDetails":{
+            "price":"350000.00 - 360000.00",
+            "features":"",
+            "supplyAbility":"10 Unit Per Week"
+        },
+        
+        "productTables":{
+            "priceAndQuantiy":["Minimum Order Quantity","1 Unit","Price Range","350000.00 - 360000.00"],
+            "productSpecifications":[""],
+            "tradeInformation":["Supply Ability","10 Unit Per Week","Delivery Time","2 Week"],
+            "productDescription":"PLC Pneumatic Collar Type Packing Machines, exported, manufactured & supplied by Flexo Pack Machines Pvt Ltd is accessible at cost-affordable price. This are offered with robust make and allow for the packing of namkeen, cereals, nuts, dry fruit, granules, pulses, detergent, pharmaceuticals, snacks etc. PLC Pneumatic Collar Type Packing Machine offers noiseless operation and has a durable construction. This machine is featured with adjustable telescopic disc, volumetric cup filler etc."
+        },
+
+        "specifications":{
+            "products":["Filling system","Filling Accuracy","Type of Seal","Filling range","Packing Material","Pouch Dimensions","Power Consumption","Compressed Air Required","Production Output","Weight","Machine Size (Bager size)"],
+            "description":["Adjustable Telescopic Disc, Volumetric Cup Filler","1-1.5% (Depend on nature of product","Centre Seal & Back Seal","5 gm upto 2000 gms. (Depend on nature of product)","Heat Sealable Laminated Films","Width: 100-260 mm","3 Kw","6 CFM@66 Bar (2 H.P. Compressor)","20-70 pouches per minute (Depend on nature & quantity of product)","550 Kg (Approx.)","L:1500 mm, W:1150mm, H:2250mm:(Apprx)"]
+        }        
+
+    }
+
+
+      
 ]
