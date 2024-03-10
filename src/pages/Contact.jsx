@@ -2,7 +2,7 @@ import { HiMail, HiPhone } from "react-icons/hi";
 
 export default function Contact() {
   return (
-    <div>
+    <main className={"antialiased"}>
       <section className="body-font relative text-gray-600">
         <div className="absolute inset-0 bg-gray-300">
           <iframe
@@ -181,6 +181,6 @@ export default function Contact() {
           </div>
         </div>
       </div>
-    </div>
+    </main>
   );
 }

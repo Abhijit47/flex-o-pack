@@ -43,7 +43,7 @@ export default function HeroSlider() {
         onSwiper={(swiper) => console.log(swiper)}
       >
         {heroSliderImages.map((slide) => (
-          <SwiperSlide key={slide.id} className={"w-full bg-red-500"}>
+          <SwiperSlide key={slide.id} className={"w-full"}>
             <div className={"aspect-h-1 aspect-w-1 h-96"}>
               <img
                 src={slide.image}

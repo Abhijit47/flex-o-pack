@@ -1,3 +1,3 @@
 export default function QualityAssurence() {
-  return <div>QualityAssurence</div>;
+  return <main className={"antialiased"}>QualityAssurence</main>;
 }
