@@ -243,26 +243,22 @@ https://flexopack.in/wp-content/uploads/2022/06/crave-logo.jpg"
 
 row=6
 https://flexopack.in/wp-content/uploads/2022/06/gloden-wafers-logo.jpg"
-
 https://flexopack.in/wp-content/uploads/2022/06/9-client.jpg"
-
 https://flexopack.in/wp-content/uploads/2022/06/balark-namkeen-logo.jpg"
-
 https://flexopack.in/wp-content/uploads/2022/06/pk-logo.jpg"
-
 https://flexopack.in/wp-content/uploads/2022/06/11-client.jpg"
-
 https://flexopack.in/wp-content/uploads/2022/04/amhesh.jpg"
 https://flexopack.in/wp-content/uploads/2022/04/mdoern.jpg"
 
+row=7
 https://flexopack.in/wp-content/uploads/2022/04/gajanan.jpg"
-https://flexopack.in/wp-content/uploads/2022/04/gajanan.jpg"
+
 https://flexopack.in/wp-content/uploads/2022/04/shri.jpg"
-https://flexopack.in/wp-content/uploads/2022/04/shri.jpg"
+
 https://flexopack.in/wp-content/uploads/2022/04/hari-om.jpg"
-https://flexopack.in/wp-content/uploads/2022/04/hari-om.jpg"
+
 https://flexopack.in/wp-content/uploads/2022/04/khandewal.jpg"
-https://flexopack.in/wp-content/uploads/2022/04/khandewal.jpg"
+
 https://flexopack.in/wp-content/uploads/2022/04/sonia.jpg"
 https://flexopack.in/wp-content/uploads/2022/04/sonia.jpg"
 https://flexopack.in/wp-content/uploads/2022/04/bangali.jpg"
