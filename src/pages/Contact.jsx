@@ -3,7 +3,7 @@ import { HiMail, HiPhone } from "react-icons/hi";
 export default function Contact() {
   return (
     <div>
-      <section className="body-font relative text-gray-600">
+      {/* <section className="body-font relative text-gray-600">
         <div className="absolute inset-0 bg-gray-300">
           <iframe
             width="100%"
@@ -54,9 +54,9 @@ export default function Contact() {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
-      <div className="relative bg-white">
+      <div className="relative bg-white mt-10">
         <div className="absolute inset-0">
           <div className="absolute inset-y-0 left-0 w-1/2 bg-gray-50" />
         </div>
